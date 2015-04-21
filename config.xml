@@ -2,10 +2,10 @@
 <widget id="com.ionicframework.hushout258171" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>hushout</name>
   <description>
-        hushout is a simple group messaging app that connects friends during a night on the town. 
+        An Ionic Framework and Cordova project.
     </description>
-  <author email="mark.mueller@me.com" href="http://www.markjmueller.com/">
-      Mark J Mueller Jr.
+  <author email="hi@ionicframework" href="http://ionicframework.com/">
+      Ionic Framework Team
     </author>
   <content src="index.html"/>
   <access origin="*"/>
